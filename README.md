@@ -1,16 +1,33 @@
-# flash_chat
+# Flash Chat
 
-A new Flutter project.
+Flash Chat is a real-time chat application built using Flutter. It provides a simple and intuitive interface for users to send and receive messages in real time.
+
+## Features
+
+- **Real-time Messaging:** Send and receive messages instantly.
+- **Firebase Integration:** Uses Firebase Cloud Firestore as the backend for storing messages.
+- **User Authentication:** Sign up, log in, and authenticate using Firebase Authentication.
+- **Clean UI:** The user interface is designed with simplicity and ease of use in mind.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. **Clone the Repository**
+    ```bash
+    git clone https://github.com/madhurgupta004/Flash-Chat.git
+    ```
+2. **Navigate to the Project Directory**
+    ```bash
+    cd Flash-Chat
+    ```
+3. **Install Dependencies**
+    ```bash
+    flutter pub get
+    ```
+4. **Run the App**
+    ```bash
+    flutter run
+    ```
 
-A few resources to get you started if this is your first Flutter project:
+## Contributing
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Contributions are welcome. For major changes, please open an issue first to discuss what you would like to change.
